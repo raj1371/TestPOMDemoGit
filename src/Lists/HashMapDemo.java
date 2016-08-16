@@ -6,6 +6,7 @@ import java.util.Set;
 public class HashMapDemo {
 	public static void main(String[] args) {
 
+		//Test Demo
 		HashMap<String, String> phoneBook = new HashMap<String, String>();
 
 		phoneBook.put("Rajesh", "9966951371");
