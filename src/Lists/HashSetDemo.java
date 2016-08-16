@@ -5,6 +5,7 @@ import java.util.HashSet;
 public class HashSetDemo {
 	public static void main(String[] args) {
 
+		//Hash Set Demo
 		HashSet<String> hs = new HashSet<String>();
 
 		hs.add("Rajesh");

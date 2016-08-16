@@ -6,6 +6,7 @@ public class HashTable {
 
 	public static void main(String[] args) {
 
+		//Hash Table Demo
 		LinkedList<String> lList = new LinkedList<String>();
 
 		lList.add("Rajesh");
